@@ -12,9 +12,8 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
+### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio ,
+</> and Crafted with 💛 by Tuhin Mondal
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
