@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi! 👋 I’m Tuhin Mondal, a B.Tech CSE (AI/ML) student at Brainware University.<br><br>💻 Interested in AI/ML, Python, Web Development & Software Development.<br>🚀 Currently building projects, improving my problem-solving skills, and exploring new technologies.<br>🔧 Tech: Python | C | Java | JavaScript | SQL | AI/ML | FastAPI | Git & GitHub<br><br>Always learning, building, and growing! 🌱<br>
+# Hi! 👋 I’m Tuhin Mondal
+ 💫About Me :
+ B.Tech CSE (AI/ML) student at Brainware University.<br><br>💻 Interested in AI/ML, Python, Web Development & Software Development.<br>🚀 Currently building projects, improving my problem-solving skills, and exploring new technologies.<br>🔧 Tech: Python | C | Java | JavaScript | SQL | AI/ML | FastAPI | Git & GitHub<br><br>Always learning, building, and growing! 🌱<br>
 
 
 ## 🌐 Socials:
